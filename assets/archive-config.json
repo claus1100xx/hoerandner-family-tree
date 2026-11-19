@@ -1,0 +1,11 @@
+{
+  "version": 5,
+  "algorithm": "AES-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 600000,
+  "salt": "5Lu4lnYr7JqZNF9KW85+tQ==",
+  "iv": "6Z2ArF+GS4/whgji",
+  "tagLength": 128,
+  "additionalData": "FamilyArchive-v5",
+  "compression": "gzip"
+}
